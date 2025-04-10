@@ -1,0 +1,25 @@
+NPX = executing a package 
+ eg:- npx install and package name it will execute that 
+
+
+ #parcel 
+ -dev build 
+ -local Server 
+ -HMR = Hot module Replacemen 
+ -file watching ALgorith 
+ -caching-Faster Build
+ -Image Optimization 
+ -minification
+ -budling 
+ -compressing  
+ -consistent Hasing 
+ -code splitting 
+ -differential bundling - support older browser 
+ -diagnostic 
+ -error handling  
+ -Https 
+ -Tree shaking 
+ 
+
+
+
